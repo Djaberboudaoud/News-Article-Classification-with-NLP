@@ -1,10 +1,11 @@
-![BBC News Classification Banner](https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.png)
 
 # 📰 BBC News Classification
 
 A **machine learning project** that automatically classifies BBC news articles into categories using **LSTM Neural Networks** and **Naive Bayes** models.
 
+
 ---
+![BBC News Classification Banner](https://github.com/Djaberboudaoud/News-Article-Classification-with-NLP/blob/main/Capture%20d'%C3%A9cran.png)
 
 ## 📌 Overview
 
